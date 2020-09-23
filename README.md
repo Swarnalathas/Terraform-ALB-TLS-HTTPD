@@ -16,6 +16,7 @@ Components created using Terraform:
 - Self Signed cerifificate for TLS
 
 How to Execute:
+Execute inside the Dev folder
 - terraform init
 - terraform apply
 
