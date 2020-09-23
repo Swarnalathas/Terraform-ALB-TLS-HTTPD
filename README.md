@@ -20,5 +20,5 @@ How to Execute:
 - terraform init
 - terraform apply
 
-execute after verify all created successfully if created isntances no longer needed.
+execute after verify all created successfully if created instances no longer needed.
 - terraform destroy
